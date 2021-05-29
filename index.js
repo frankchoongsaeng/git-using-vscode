@@ -277,6 +277,8 @@ if(person_age  >= 18 && person_nationality == "Ghanaian") {
 }
 
 
+// a new comment
+
 
 
 
